@@ -4,7 +4,7 @@
   <remote name="dev" fetch="https://github.com/mt6768-dev" />
   <remote name="melab" fetch="https://gitlab.com/Arafattex" />
   <remote name="me" fetch="https://github.com/Arafattex" />
-  <remote name="ozip" fetch="https://github.com/ozipoetra" />
+  <remote name="ozipoetra" fetch="https://github.com/ozipoetra" />
   <remote name="ImSurajxD" fetch="https://gitlab.com/ImSurajxD" />
   <remote name="R9Lab" fetch="https://gitlab.com/R9Lab" />
   <remote name="los" fetch="https://github.com/LineageOS" />
